@@ -37,6 +37,6 @@ We want to make sure that you can get HTML to display correctly in a browser on 
 </html>
 ```
 Once you've saved it, exit Sublime Text and double click on the file.  It should open in a web browser and you should see something like this:
-![My Website](http://cl.ly/image/23392X1I2S22/Image%202014-09-06%20at%206.13.18%20PM.png).
+![My Website](http://cl.ly/image/23392X1I2S22/Image%202014-09-06%20at%206.13.18%20PM.png)
 
 This completes the assignment.  Please email daniel.dickstein@yale.edu if you have any questions, comments, or concerns.
