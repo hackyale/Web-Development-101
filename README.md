@@ -1,4 +1,3 @@
-Web-Development-101
-===================
+# Introduction to Web Development
 
-Repository for Introduction to Web Development course by HackYale.
+Welcome to the course!  Here you can find the slides from lectures, assignments, and other resources.
