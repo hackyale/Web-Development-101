@@ -8,7 +8,7 @@ To write HTML, CSS, and code in other languages we use an *editor*, which is a t
 
 When you open Sublime Text you will see that it has a really minimalist interface - there are no toolbars, and it just opens an empty tab for you to start writing code.  Sublime Text is highly customizable, and we will be making just a few of these customizations.  You can feel free to read more about Sublime Text online and customize it as much as you'd like.
 
-Sublime Text is currently a free product, but they still want you to purchase a license to support them, so they will nag you from time to time.  Feel free to close any popups you get from them (a message will appear on every 20th `File > Save` or so).  To get rid of these messages quickly just tap the `escape` key and the window will vanish.  You will also see the word UNREGISTERED in the corner to indicate that you have not purchaseFd a license.  Again, not purchasing a license will not affect your ability to use the software - the license is (as of now) entirely optional and is really a token of support / appreciation of the product.
+Sublime Text is currently a free product, but they still want you to purchase a license to support them, so they will nag you from time to time.  Feel free to close any popups you get from them (a message will appear on every 20th `File > Save` or so).  To get rid of these messages quickly just tap the `escape` key and the window will vanish.  You will also see the word UNREGISTERED in the corner to indicate that you have not purchased a license.  Again, not purchasing a license will not affect your ability to use the software - the license is (as of now) entirely optional and is really a token of support / appreciation of the product.
 
 Please remember that Sublime Text is not essential to writing code or building websites - it is just a convenient editor for writing code.  Don't think it has any special functionality that somehow makes websites run - it doesn't.
 
@@ -38,5 +38,15 @@ We want to make sure that you can get HTML to display correctly in a browser on 
 ```
 Once you've saved it, exit Sublime Text and double click on the file.  It should open in a web browser and you should see something like this:
 ![My Website](http://cl.ly/image/23392X1I2S22/Image%202014-09-06%20at%206.13.18%20PM.png)
+
+### Enabling Developer Tools
+
+Many modern browsers are equippied with convenient utilities that allow you to interact with the HTML, CSS, and JavaScript on a web page.  We will be using these tools in class, so make sure you have them working on your computer so you can follow along.
+
+[Instructions for Google Chrome](https://developer.chrome.com/devtools)<br />
+[Instructions for Safari](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html#//apple_ref/doc/uid/TP40007874-CH2-SW2)<br />
+Firefox should have developer tools already enabled (check under Tools > Web Developer)
+
+Note that each of these browsers offers a slightly different set of developer tools.  The tools we use should be available in all of them, but if you want to be sure you can replicate everything we do you should [download](https://support.google.com/chrome/answer/95346?hl=en) and use Google Chrome.
 
 This completes the assignment.  Please email daniel.dickstein@yale.edu if you have any questions, comments, or concerns.  There is no need to turn in your `homepage.html` file.
