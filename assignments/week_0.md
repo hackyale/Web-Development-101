@@ -43,8 +43,8 @@ Once you've saved it, exit Sublime Text and double click on the file.  It should
 
 Many modern browsers are equippied with convenient utilities that allow you to interact with the HTML, CSS, and JavaScript on a web page.  We will be using these tools in class, so make sure you have them working on your computer so you can follow along.
 
-[Instructions for Google Chrome](https://developer.chrome.com/devtools).
-[Instructions for Safari](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html#//apple_ref/doc/uid/TP40007874-CH2-SW2)
+[Instructions for Google Chrome](https://developer.chrome.com/devtools).<br />
+[Instructions for Safari](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html#//apple_ref/doc/uid/TP40007874-CH2-SW2)<br />
 Firefox should have developer tools already enabled (check under Tools > Web Developer).
 
 Note that each of these browsers offers a slightly different set of developer tools.  The tools we use should be available in all of them, but if you want to be sure you can replicate everything we do you should [download](https://support.google.com/chrome/answer/95346?hl=en) and use Google Chrome.
