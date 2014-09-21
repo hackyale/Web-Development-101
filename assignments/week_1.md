@@ -14,4 +14,4 @@ Go spend some time on other websites using `Inspect Element` and modifying the H
 
 Next week we are going to move on to CSS, the language used for styling websites.  Now that you know the basics of HTML, you should be able to discover new tags on your own and see what you can do with them.  The fundamentals of the language are all the same.  Take some time to discover new HTML tags and features, and add them to your webpage.  In particular, look up the `table` and `iframe` tags and try using them.  Alternatively, see if you can figure out how to embed a YouTube video in your webpage.
 
-This completes the assignment.  If you would like your homework reviewed, please zip the folder with your .html files and send it to daniel.dickstein@yale.edu.  Also feel free to email with any questions, comments, or concerns.
+This completes the assignment.  If you would like your homework reviewed, please zip the folder with your HTML files and send it to daniel.dickstein@yale.edu.  Also feel free to email with any questions, comments, or concerns.
