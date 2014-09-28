@@ -22,7 +22,7 @@ Sometimes it's not obvious what base a number is using.  For example, the number
 
 10 = "10 in base 10"  
 0b10 = "10 in base 2"  
-010 = "10 in base 8"
+010 = "10 in base 8"  
 0x10 = "10 in base 16"
 
 Converting numbers between bases can be confusing at first.  Try the exercises below to make sure you get the hang of it.  There are online converters you can use to double check your answer and make sure you're right.
