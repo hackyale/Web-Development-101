@@ -22,6 +22,7 @@ Sometimes it's not obvious what base a number is using.  For example, the number
 
 <table>
   <tr>
+    <th>Name</th>
     <th>Base</th>
     <th>Prefix</th>
     <th>Example</th>
@@ -29,24 +30,28 @@ Sometimes it's not obvious what base a number is using.  For example, the number
   </tr>
   <tr>
     <td>Binary</td>
+    <td>2</td>
     <td>0b</td>
     <td>0b1001</td>
     <td>9</td>
   </tr>
   <tr>
     <td>Octal</td>
+    <td>8</td>
     <td>0</td>
     <td>01001</td>
     <td>513</td>
   </tr>
   <tr>
     <td>Decimal</td>
+    <td>10</td>
     <td></td>
     <td>1001</td>
     <td>1001</td>
   </tr>
   <tr>
     <td>Hexadecimal</td>
+    <td>16</td>
     <td>0x</td>
     <td>0x1001</td>
     <td>4097</td>
