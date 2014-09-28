@@ -20,10 +20,38 @@ In addition to the numerical bases we discussed in the lecture, another numerica
 
 Sometimes it's not obvious what base a number is using.  For example, the number 10 is valid binary, octal, decimal, and hexadecimal.  We usually note the base of the number using a prefix:
 
-10 = "10 in base 10"  
-0b10 = "10 in base 2"  
-010 = "10 in base 8"  
-0x10 = "10 in base 16"
+<table>
+  <tr>
+    <th>Base</th>
+    <th>Prefix</th>
+    <th>Example</th>
+    <th>Decimal value</th>
+  </tr>
+  <tr>
+    <td>Binary</td>
+    <td>0b</td>
+    <td>0b1001</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Octal</td>
+    <td>0</td>
+    <td>01001</td>
+    <td>513</td>
+  </tr>
+  <tr>
+    <td>Decimal</td>
+    <td></td>
+    <td>1001</td>
+    <td>1001</td>
+  </tr>
+  <tr>
+    <td>Hexadecimal</td>
+    <td>0x</td>
+    <td>0x1001</td>
+    <td>4097</td>
+  </tr>
+</table>
 
 Converting numbers between bases can be confusing at first.  Try the exercises below to make sure you get the hang of it.  There are online converters you can use to double check your answer and make sure you're right.
 
