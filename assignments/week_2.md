@@ -20,8 +20,8 @@ Converting numbers between decimal (base 10), binary (base 2), and hexadecimal (
 
 Sometimes it's not obvious what base a number is using.  For example, the number 10 is valid binary, decimal, and hexadecimal.  We usually note the base of the number using a prefix:
 
-10 = "10 in base 10"
-0b10 = "10 in base 2"
+10 = "10 in base 10"  
+0b10 = "10 in base 2"  
 0x10 = "10 in base 16"
 
 Exercises:
