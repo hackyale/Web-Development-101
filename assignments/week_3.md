@@ -17,7 +17,7 @@ Try styling your website exactly how you imagine it, until you find yourself uns
 2. How to make an element invisible (take a look at the visibility and display properties)
 3. How to style nested lists in outline form (outer level is roman numerals, then capital letters, then numbers...)
 
-### Part 5: Finish your website
+### Part 3: Finish your website
 
 At this point you should be able to finish your website's appearance.  Your website is now a **static website**; it doesn't "do" anything other than display information that never changes unless the underlying code is edited.  Still, many of the websites on the internet are of this variety, so congratulate yourself on coming this far.  Continue exploring HTML and CSS, adding pages to your website, and try to polish your website so it's presentable.
 
