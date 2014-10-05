@@ -16,6 +16,7 @@ Try styling your website exactly how you imagine it, until you find yourself uns
 1. How to use an image as a background
 2. How to make an element invisible (take a look at the visibility and display properties)
 3. How to style nested lists in outline form (outer level is roman numerals, then capital letters, then numbers...)
+4. How to select elements based on attribute values
 
 ### Part 3: Finish your website
 
