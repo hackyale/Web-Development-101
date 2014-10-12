@@ -26,10 +26,10 @@ If you are feeling up to the challenge, try out some of these problems!
 
 1. Write a program to calculate the types of change returned from a purchase.  Have the user specify the price of the item and how much they spent, and then calculate how many dollars, quarters, dimes, nickels, and pennies they get back.  If either the price is invalid or the amount spent is less than the price, tell the user that the input was invalid.
 
-The next two problems may require building up a **string** (a line of text) before printing it to the screen.  To do this, start with `var myString = ""` and then every time you want to append to `myString` use `myString += "string to append";`.  Finally, you can use `console.log(myString)` to print the result.
-
 2. Given a positive integer, write a program that will print out the binary representation of that integer (0's and 1's).  If you're feeling ambitious, add hexadecimal representation also.
 
 3. Write a program to conert an inputted integer into Roman numerals.  Do not forget that 4 becomes IV and not IIII, and 9 similarly becomes IX.  Look up all the Roman numeral rules online if you're not familiar with the system.
+
+The latter two problems may require building up a **string** (a line of text) before printing it to the screen.  To do this, start with `var myString = ""` and then every time you want to append to `myString` use `myString += "string to append";`.  Finally, you can use `console.log(myString)` to print the result.
 
 This completes the assignment.  If you would like me to give you feedback on your programs, please send them to daniel.dickstein@yale.edu.  Also feel free to email with any questions, comments, or concerns.  And if you want more challenge problems, I have plenty.
