@@ -10,6 +10,8 @@ Spend some time reviewing the concepts we discussed in class.  Conditions and lo
 2. Try to print out all the multiples of 5 up to 100.
 3. Try to print out the first 50 fibonacci numbers.
 
+Note: it may be easier to write these scripts in Sublime Text and then copy-paste them over to the console.
+
 ### Part 2: Learning more JavaScript
 
 Once you're feeling a bit more comfortable using the code techniques from class, try learning a bit of JavaScript on your own.  In particular, try learning the `alert` and `prompt` functions.  See if you can figure out how to convert the result from `prompt` into a number that you can store in a variable and use as input to your programs.  You should be able to find an example of someone who has done this before.  If you're totally stumped, try [this](http://lmgtfy.com/?q=how+to+convert+text+to+a+number+in+JavaScript&l=1).  Then you can modify or rewrite the previous programs to incorporate user input:
